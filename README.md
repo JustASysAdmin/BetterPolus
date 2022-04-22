@@ -69,7 +69,7 @@ For a better experience, every player in your lobby should download BetterPolus.
  ## Releases
  | Among Us Version | Mod Version |  DLL file |
  | ---------------- | ----------- | :-------------: |
- | v2022.3.29s     | Ver. 1.1.5  |  **[Download](https://github.com/Brybry16/BetterPolus/releases/download/v1.1.4/BetterPolus-1.1.4.dll)** |
+ | v2022.3.29s     | Ver. 1.1.5  |  **[Download](https://github.com/JustASysAdmin/BetterPolus/releases/download/v1.1.5/BetterPolus.dll)** |
 
 
  
