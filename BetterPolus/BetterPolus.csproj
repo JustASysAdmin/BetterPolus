@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
     <PropertyGroup>
         <TargetFramework>netstandard2.1</TargetFramework>
-        <Version>1.1.4</Version>
+        <Version>1.1.5</Version>
 
         <Description>An Among Us mod that tweaks Polus, allowing a more balanced experience.</Description>
         <Authors>Brybry</Authors>
